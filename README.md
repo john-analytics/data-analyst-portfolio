@@ -5,6 +5,6 @@ This portfolio contains EPC-style projects focused on cost control, progress tra
 and monthly MIS reporting.
 
 ## Projects Included
-- EPC Project Cost Control & Budget Variance Analysis
-- EPC Project Progress Tracking & Delay Risk Analysis
+- Project Cost Control & Budget Variance Analysis
+- Project Progress Tracking & Delay Risk Analysis
 - Monthly MIS Reporting & Performance Analysis
